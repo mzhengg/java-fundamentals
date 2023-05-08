@@ -1,0 +1,30 @@
+﻿Problem A:
+* Circumference: 10 => Area of circle is: 8.33
+* Circumference: 30 => Area of circle is 75.00
+
+
+Problem B:
+* Cost: 50
+You bought an item for 50 and gave me a dollar,
+so your change is
+2 quarters,
+0 dimes, and
+0 nickels.
+
+
+* Cost: 75
+You bought an item for 75 and gave me a dollar,
+so your change is
+1 quarter,
+0 dimes, and
+0 nickels.
+
+
+Problem C:
+* x=1, y=1 , z=1 => Cube Root is 1.0
+* x=2, y=2 , z=2 => Cube Root is 1.82
+
+
+Problem D:
+* m1=1, m2=1, r=1 => Force is 0.0
+* m1=1e+5, m2=2e+5, r=1e+1 => Force is 0.01

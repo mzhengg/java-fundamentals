@@ -1,0 +1,10 @@
+﻿A.2: Can π be encoded as “static final” in the code? Why or why not? Justify your answer.
+
+
+Static means that the value is the same for every instance of the class. Final means that once the variable has been assigned a value it can't be changed. So, static final is how one creates a constant value in Java. Thus, π can be encoded as a static final since it is always 3.14...
+
+
+D.1: Explain the problem:
+
+
+The equation written by the physics student doesn't follow orders of operations. Note that (G*m1*m2/r)*r, which is what the student is doing, is not equivalent to G*m1*m2/(r^2), which is how the equation should be used.
